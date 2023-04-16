@@ -4,7 +4,7 @@ This handbook is being built with the goal of compiling every bit of information
 
 ## To Do List
 
-
+Basically everything.
 
 ## Software Platform
 
