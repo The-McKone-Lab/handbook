@@ -1,0 +1,33 @@
+site_name: McKone Lab Handbook
+copyright: Copyright &copy; 2023 McKone Lab
+theme:
+  name: material
+  
+  features:
+    - navigation.instant #instant load
+    - navigation.tracking #adds anchors to address bar
+    - navigation.tabs #renders top-level sections in header bar
+    - navigation.tabs.sticky #keeps tabs visible even as you scroll down
+    - navigation.path #breadcrumbs
+    - navigation.top #back to top link
+    - navigation.footer #links to previous and next page
+    - search.suggest #autocomplete based on suggestion in search bar
+    - search.highlight #highlights appearances of search term(s) after search
+
+  palette:
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+  
