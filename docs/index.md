@@ -1,10 +1,6 @@
-# Welcome
+# Introduction
 
 This handbook is being built with the goal of compiling every bit of information that anybody who works in our research group might need to know, and maybe a lot you don't need too. The handbook is very much a work in progress. Talk to James if you are interested in working with him to develop content!
-
-## To Do List
-
-Basically everything.
 
 ## Software Platform
 

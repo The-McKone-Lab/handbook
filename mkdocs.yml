@@ -7,7 +7,6 @@ theme:
     - navigation.instant #instant load
     - navigation.tracking #adds anchors to address bar
     - navigation.tabs #renders top-level sections in header bar
-    - navigation.tabs.sticky #keeps tabs visible even as you scroll down
     - navigation.path #breadcrumbs
     - navigation.top #back to top link
     - navigation.footer #links to previous and next page
@@ -30,4 +29,26 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 
+nav: 
+  - Home: 
+    - 'index.md'
+    - To-Do list: 'to-do.md'
+    - 'about.md'
+    - Our ideals: 'mission-vision.md'
+  - Policies:
+    - Onboarding: 'onboarding.md'
+    - Offboarding: 'offboarding.md'
+    - Safety: 'safety.md'
+    - Interpersonal Behavior: 'interpersonal.md'
+  - Training resources:
+    - Reading papers: 'readingPapers.md'
+    - Giving presentations: 'givingPresentations.md'
+    - Documenting your work: 'documentingWork.md'
+  - Guides:
+    - Guides for researchers: 'guides.md'
+    - Preamble: 'noteFromJames.md'
+    - Grad Students: 'gradGuide.md'
+    - Undergraduates: 'ugGuide.md'
+    - Postdoc researchers: 'pdGuide.md'
+    - Visitors: 'visitorGuide.md'
   
