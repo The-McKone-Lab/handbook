@@ -1,2 +1,2 @@
 # handbook
-comprehensive handbook for members of the mckone research group
+Handbook for members of the McKone research group

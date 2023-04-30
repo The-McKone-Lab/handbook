@@ -7,8 +7,7 @@ following:
 
 -   Racist, sexist, or bigoted speech or actions
 -   Harassment, bullying, or violent conduct
--   Uncivil or threatening behavior toward others, including yelling, put-downs, or
-    swearing
+-   Uncivil or threatening behavior toward others, including yelling, put-downs, or egregious instances of cursing
 -   Purposeful interference or sabotage of a coworker’s efforts
 -   Fabrication or manipulation of data
 -   Deliberate misuse or damage of laboratory equipment or supplies

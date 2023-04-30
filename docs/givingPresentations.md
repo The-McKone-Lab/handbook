@@ -61,7 +61,7 @@ A handful of additional recommendations on talk contents are as follows:
 
 * It is easy to get bogged down in the aesthetic aspects of your visual aids, but effort placed in this area leads to rapidly diminishing returns. Also, while everyone is entitled to their personal preferences regarding typeface, whitespace, and use of colors, you should never sacrifice legibility for artfulness. Thus, it is generally preferable to keep the talk aesthetically neutral.
 
-##Prepare the delivery
+## Prepare the delivery
 
 Always remember the following when preparing to deliver a presentation: the focus of the talk should be the speaker, and not the visual aids. After all, if visuals alone were sufficient to deliver the message, researchers wouldn’t need to talk to one another at all! If you keep this general principle in mind throughout preparation of your delivery, it will help you avoid some of the most significant pitfalls.
 
@@ -73,7 +73,7 @@ As you practice your presentation, continue to make revision to fine-tune the vi
 
 In addition to visual aids and the verbal content of the presentation, nonverbal indicators are important in the delivery of a presentation. These include body language like gestures, posture, and movement, as well as whether and how you indicate specific parts of visual aids, e.g., using a laser pointer. There are many examples of good and bad nonverbal cues during a presentation, but in general the best strategy is simply to practice in front of a live audience and solicit their honest feedback about anything you are doing that is unclear, distracting, or off-putting.
 
-##Give the talk
+## Give the talk
 
 Giving the final research presentation could be as easy as simply doing exactly what you have practiced. In reality, practice talks never adequately approximate the environment of giving a real research presentation, whether it is a group meeting presentation, a talk at a conference, or a seminar as part of a job interview. In fact, the best scientific talks are almost always the ones where the speaker has given the presentation publicly to an evaluative (and perhaps unfriendly) audience several times. This is definitely an area in which practice makes perfect.
 

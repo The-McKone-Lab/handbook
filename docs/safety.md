@@ -10,21 +10,13 @@ The following section discusses additional safety policies that are in effect fo
 Safe operation of equipment and tools requires knowledge of the working
 principles of the apparatus and training for each user. Each piece of
 equipment administrated by our research lab has one or more designated
-administrators (Prof. McKone is also an administrator for all equipment)
-who are allowed to train novice users. These trainings are to be
+administrators who are allowed to train novice users. These trainings are to be
 scheduled directly with the equipment administrator.
 
 In general, training procedures follow a model of three repetitions in
-the progression, “I do---we do---you do."
+the progression "I do; we do; you do."
 This means that the trainee first watches the administrator operate the equipment, then the trainee and administrator operate the equipment together, and finally the trainee operates the equipment alone with supervision from the administrator.
 After safely and successfully operating the equipment alone, the user is considered to be trained.
-We require written documentation attesting to your
-training status for each piece of equipment, which will be provided and
-filled out by the administrator. We also maintain logs for most of our
-equipment for the purpose of monitoring usage patterns and maintenance
-issues. These logs are to be scrupulously maintained regardless of the
-nature of your instrument usage (e.g. even if you are just running a
-“quick experiment").
 
 Researchers are **never** allowed to use any instrument for which they
 have not been trained. Regardless of training status, every user must
@@ -46,10 +38,7 @@ exceed the requirements of the department. In the (unlikely) event that
 the rules outlined below come into conflict with those of the department
 or university, the departmental or university rules take precedent.
 
-Safety equipment, including fire extinguishers, showers, eye washes,
-spill kits, and the like are located throughout our laboratory spaces.
-
-It is imperative that each group member become familiar with the use of each of these pieces of equipment as well as their locations in the laboratory spaces. A good rule of thumb is that you should be able to find your way to a nearby shower, eye wash, or fire extinguisher within a few seconds even with your eyes closed!
+Safety equipment, including fire extinguishers, showers, eye washes, spill kits, and the like are located throughout our laboratory spaces. It is imperative that each group member become familiar with the use of each of these pieces of equipment as well as their locations in the laboratory spaces. A good rule of thumb is that you should be able to find your way to a nearby shower, eye wash, or fire extinguisher within a few seconds even with your eyes closed!
 
 With regard to personal protective equipment (PPE), McKone lab
 researchers are expected to wear, at minimum, a fire-retardant lab coat,
@@ -114,7 +103,7 @@ tired and working alone. Under no circumstances are McKone lab members
 to run experiments when they have had inadequate sleep or when they are
 very ill. Keep in mind that medical research has suggested that going
 more than 20 hours without sleep causes cognitive deficits comparable to
-alcohol intoxication [1]. Neither should anyone ever work with hazardous
+alcohol intoxication [^1]. Neither should anyone ever work with hazardous
 materials or equipment when alone in the lab space. This is true
 regardless of the ease of the procedure, the researcher’s competency,
 the time of day, or the proximity of colleagues or emergency personnel.
@@ -123,23 +112,17 @@ to carry out experiments in the lab space, at the very least make
 arrangements for a colleague to be nearby and to check on your status at
 regular intervals.
 
-[1] [Jolanta Orzeł-Gryglewska, “Consequences of Sleep Deprivation,"
-    *Int. J. Occ. Med. Env. Health*
-    2010.](http://dx.doi.org/10.2478/v10001-010-0004-9)
+[^1]:
+    [Jolanta Orzeł-Gryglewska, “Consequences of Sleep Deprivation," *Int. J. Occ. Med. Env. Health* 2010.](http://dx.doi.org/10.2478/v10001-010-0004-9)
 
 ## Consequences for Unsafe Behavior
 
 We operate on a sliding scale of tolerance for safety policy violations or failures to follow proscribed operating procedures, depending on the severity of the circumstances.
-For minor safety violations, you will be required to speak with the administrator in charge of the equipment or materials that were treated unsafely (or with Prof. McKone) to discuss proper procedures. Use of the lab or instrument may resume when the
-administrator is satisfied that you will behave safely in the future.
+For minor safety violations, you will be required to speak with the administrator in charge of the equipment or materials that were treated unsafely (or with James) to discuss proper procedures. Use of the lab or instrument may resume when the administrator is satisfied that you will behave safely in the future.
 
 For moderate violations or repeated minor violations of lab safety
 rules, access to the laboratory and/or instrument will
 be revoked. Use can resume only upon verbal or written authorization
 from *both* a laboratory/instrument administrator and Prof. McKone.
 
-Severe violations or repeated moderate violations of safety rules will result in an indefinite ban from use of the equipment,
-apparatus, or lab space in question. This may prevent you
-from completing current research efforts, in which case Prof.
-McKone will likely counsel you to significantly revise your
-research plan, or possibly to leave the laboratory.
+Severe violations or repeated moderate violations of safety rules will result in an indefinite ban from use of the equipment, apparatus, or lab space in question. This may prevent you from meeting your responsibilities or making adequate progress toward degree completion, in which case James will counsel you to significantly revise your research plan or to leave our group.
