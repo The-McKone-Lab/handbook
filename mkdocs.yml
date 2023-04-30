@@ -13,7 +13,7 @@ theme:
     - search.suggest #autocomplete based on suggestion in search bar
     - search.highlight #highlights appearances of search term(s) after search
 
-   markdown_extensions:
+  markdown_extensions:
     - footnotes
 
   palette:
