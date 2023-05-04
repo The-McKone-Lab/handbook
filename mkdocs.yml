@@ -13,9 +13,6 @@ theme:
     - search.suggest #autocomplete based on suggestion in search bar
     - search.highlight #highlights appearances of search term(s) after search
 
-#  markdown_extensions:
-#    - footnotes
-
   palette:
 
     # Palette toggle for light mode
@@ -43,7 +40,8 @@ nav:
     - Interpersonal behavior: 'interpersonal.md'
     - Hours, vacation, and leave: 'hoursVacationLeave.md' 
     - Lab Notebooks: 'labNotebook.md'
-    - Onboarding: 'onboarding.md'
+    - Onboarding:
+      - Onboarding Overview: 'onboarding.md'
       - Initial Safety Training: 'onboarding_safety.md'
       - Experiment 1: 'expt1.md'
     - Offboarding: 'offboarding.md'
