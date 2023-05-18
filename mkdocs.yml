@@ -44,7 +44,6 @@ nav:
       - Onboarding Overview: 'onboarding.md'
       - Initial Safety Training: 'onboarding_safety.md'
       - Experiment 1: 'expt1.md'
-    - Offboarding: 'offboarding.md'
   - Training resources:
     - Reading papers: 'readingPapers.md'
     - Giving presentations: 'givingPresentations.md'
