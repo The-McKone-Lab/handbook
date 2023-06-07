@@ -5,9 +5,11 @@ theme:
   
   features:
     - navigation.instant #instant load
+    - navigation.sections # includes top level sections in sidebar
     - navigation.tracking #adds anchors to address bar
     - navigation.tabs #renders top-level sections in header bar
     - navigation.path #breadcrumbs
+    - navigation.indexes #creates index pages
     - navigation.top #back to top link
     - navigation.footer #links to previous and next page
     - search.suggest #autocomplete based on suggestion in search bar
@@ -30,28 +32,32 @@ theme:
         name: Switch to light mode
 
 nav: 
-  - Home: 
-    - 'index.md'
-    - To-Do list: 'to-do.md'
-    - About our lab: 'about.md'
-    - Our ideals: 'mission-vision.md'
+  - Home: index.md
+  - About Our Lab: 
+    - about/index.md
+    - Our ideals: about/mission-vision.md
   - Policies:
-    - Lab safety policies: 'safety.md'
-    - Interpersonal behavior: 'interpersonal.md'
-    - Hours, vacation, and leave: 'hoursVacationLeave.md' 
-    - Lab Notebooks: 'labNotebook.md'
+    - policies/index.md
+    - Lab safety policies: policies/safety.md
+    - Interpersonal behavior: policies/interpersonal.md
+    - Hours, vacation, and leave: policies/hoursVacationLeave.md 
+    - Lab Notebooks: policies/labNotebook.md
     - Onboarding:
-      - Onboarding Overview: 'onboarding.md'
-      - Initial Safety Training: 'onboarding_safety.md'
-      - Experiment 1: 'expt1.md'
-  - Training resources:
-    - Reading papers: 'readingPapers.md'
-    - Giving presentations: 'givingPresentations.md'
-    - Documenting your work: 'documentingWork.md'
-  - Guides:
-    - Guides for researchers: 'guides.md'
-    - Preamble: 'noteFromJames.md'
-    - Grad Students: 'gradGuide.md'
-    - Undergraduates: 'ugGuide.md'
-    - Postdoc researchers: 'pdGuide.md'
-    - Visitors: 'visitorGuide.md'
+      - Onboarding Overview: policies/onboarding.md
+      - Initial Safety Training: policies/onboarding_safety.md
+      - Experiment 1: policies/expt1.md
+  - Professional training:
+    - professionalTraining/index.md
+    - Reading papers: professionalTraining/readingPapers.md
+    - Giving presentations: professionalTraining/givingPresentations.md
+    - Documenting your work: professionalTraining/documentingWork.md
+    - Guides for Researchers:
+      - Guides for researchers: professionalTraining/guides.md
+      - Preamble: professionalTraining/noteFromJames.md
+      - Grad Students: professionalTraining/gradGuide.md
+      - Undergraduates: professionalTraining/ugGuide.md
+      - Postdoc researchers: professionalTraining/pdGuide.md
+      - Visitors: professionalTraining/visitorGuide.md
+  - Technical Training: 
+    - technicalTraining/index.md
+  
