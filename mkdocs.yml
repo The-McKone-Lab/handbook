@@ -31,6 +31,10 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 
+markdown_extensions:
+  - footnotes
+
+
 nav: 
   - Home: index.md
   - About Our Lab: 
@@ -38,26 +42,27 @@ nav:
     - Our ideals: about/mission-vision.md
   - Policies:
     - policies/index.md
-    - Lab safety policies: policies/safety.md
+    - Lab safety: policies/safety.md
     - Interpersonal behavior: policies/interpersonal.md
     - Hours, vacation, and leave: policies/hoursVacationLeave.md 
-    - Lab Notebooks: policies/labNotebook.md
-    - Onboarding:
-      - Onboarding Overview: policies/onboarding.md
-      - Initial Safety Training: policies/onboarding_safety.md
-      - Experiment 1: policies/expt1.md
+    - Hybrid and remote work: policies/hybridRemote.md
+    - Documenting lab work: policies/documentation.md
+    - Onboarding: policies/onboarding.md
+    - Offboarding: policies/offboarding.md
   - Professional training:
     - professionalTraining/index.md
-    - Reading papers: professionalTraining/readingPapers.md
-    - Giving presentations: professionalTraining/givingPresentations.md
-    - Documenting your work: professionalTraining/documentingWork.md
     - Guides for Researchers:
-      - Guides for researchers: professionalTraining/guides.md
-      - Preamble: professionalTraining/noteFromJames.md
+      - "Preamble: a note from James": professionalTraining/noteFromJames.md
       - Grad Students: professionalTraining/gradGuide.md
       - Undergraduates: professionalTraining/ugGuide.md
       - Postdoc researchers: professionalTraining/pdGuide.md
       - Visitors: professionalTraining/visitorGuide.md
+    - Reading papers: professionalTraining/readingPapers.md
+    - Giving presentations: professionalTraining/givingPresentations.md
+    - Documenting your work: professionalTraining/documentingWork.md
+    - Managing your time: professionalTraining/timeManagement.md
+
   - Technical Training: 
     - technicalTraining/index.md
+    - Experiment 1: technicalTraining/expt1.md
   

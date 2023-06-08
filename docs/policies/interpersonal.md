@@ -1,9 +1,9 @@
 # Interpersonal Behavior
 
-We expect that every person who works in or with the McKone lab will
-maintain a high degree of professional comportment and courtesy to one
-another at all times. Examples of inappropriate behavior include the
-following:
+## Overview 
+
+Every person who works in or with the McKone lab must maintain a high degree of professional comportment and courtesy to one another at all times. 
+Examples of inappropriate behavior include the following:
 
 -   Racist, sexist, or bigoted speech or actions
 -   Harassment, bullying, or violent conduct
@@ -12,7 +12,9 @@ following:
 -   Fabrication or manipulation of data
 -   Deliberate misuse or damage of laboratory equipment or supplies
 
-We operate with a *zero tolerance* policy toward the conduct noted
+## Zero tolerance
+
+We operate with a **zero tolerance** policy toward the conduct noted
 above, or similarly egregious behaviors. This means that no warnings
 will be issued, and researchers will answer for any of the above with
 consequences that are appropriate to the severity of their behavior. At
@@ -30,6 +32,8 @@ immediate and indefinite expulsion from the lab. Researchers should also
 be advised that illegal behaviors (e.g. sexual harassment, threats or acts of violence, use
 of illegal drugs) or violations of university policies (e.g. misuse of lab resources,
 academic misconduct) will be referred to the appropriate authorities.
+
+## Resolving disputes
 
 It is possible that McKone lab researchers may, from time to time, have a
 professional or personal dispute with a colleague. Causes for disputes
@@ -51,5 +55,7 @@ guidance from Prof. McKone, a thesis committee member, or another
 faculty/staff mentor whose is not directly involved in the conflict. In
 some circumstances, addressing the conflict with the department chair or
 a designated departmental liaison with the appropriate authority would be best.
+
+## Outside resources
 
 Pitt makes available various campus-wide resources for concerns or conflicts, including [the student affairs office](http://www.studentaffairs.pitt.edu/), [the office of human resources](http://www.hr.pitt.edu/about-hr), and [the campus safety office](http://www.safety.pitt.edu/). Please make yourself familiar with these resources and do not hesitate to use them as needed.

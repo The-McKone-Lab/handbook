@@ -1,8 +1,19 @@
-# Preamble: a note from James
+# Guides for researchers
+
+## Overview
+
+This section of the handbook includes a note from James regarding his approach to research mentorship.
+That is followed by short guides for each type of researcher that works in the McKone lab---graduate
+students, undergraduates, postdoctoral researchers, and visiting scientists.
+These guides spell out in greater detail expectations for your work as well as some suggestions for success.
+
+## A note from James
 
 Greetings and thanks again for your interest and/or involvement in our research group.
 I am providing here a short note that I hope will provide some insight
 regarding my personal philosophy and approach to professorship.
+
+### What do I do
 
 My primary role as a professor is to guide my group members and other Pitt students toward successful outcomes.
 Those outcomes are defined by the requirements of the university and by the goals of the students/researchers themselves.
@@ -42,6 +53,8 @@ that members of my group will involve themselves in outreach efforts as
 well.
 It is extremely rewarding!
 
+### How I actually spend my time
+
 Practically, I spend my time at Pitt (in rough order of most to least time) writing, talking, reading, and thinking.
 Being an assistant professor means that I spend a lot of time writing grant proposals and preparing lectures.
 I also spend lots of time talking with colleagues and lab members in meetings, one-on-one discussions, and over the phone.
@@ -49,7 +62,9 @@ I travel regularly to give seminars at conferences and at other universities, in
 I read reports, theses, manuscript drafts, and the published literature to keep up with the latest work of interest to our group.
 Finally, I find it important to set aside regular time to brainstorm and develop ideas alone and in collaboration with my students and colleagues.
 Conspicuously absent from this list is time spent running experiments!
-I am available to help develop and teach laboratory procedures, and I expect to spend some time in lab collecting preliminary data, but for the most part I leave lab work to students and postdocs.
+I am available to help develop and teach laboratory procedures, and I can sometimes come into lab to do some training or help solve problems, but for the most part I leave lab work to students and postdocs.
+
+### My philosophy about work-life balance
 
 I place a high priority on maintaining a balanced lifestyle.
 I try not to overwork myself and to make healthy life choices.
@@ -62,6 +77,8 @@ I also stay active with several hobbies unrelated to my work at Pitt, which incl
 I encourage all members of my research group to make an effort to maintain a balanced
 lifestyle.
 Your work and overall happiness will benefit as a result.
+
+### Some general advice
 
 I will conclude with some general advice on how we can work fruitfully
 together.

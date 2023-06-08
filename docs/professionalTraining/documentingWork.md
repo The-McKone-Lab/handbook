@@ -2,7 +2,25 @@
 
 These are recommendations for how McKone lab members should document and present their work, including general guidelines on keeping lab notes, writing formal and informal documents, and preparing presentations.
 
-## Keeping track of your lab work
+## What goes into a lab notebook
+
+Everyone in the McKone Lab is required to keep a lab notebook that contains a contemporaneous record of all your lab research. To be more specific, each lab notebook entry needs to contain a *complete record of the work you have done*. 
+
+In practice, this means every entry needs some kind of list (acceptable) or narrative description (better) of every step of every experiment you did that day. Using as an example a hypothetical lab session in which you collected several dozen sets of electrochemical current versus voltage data, this doesn't mean you have to have to plot every one of those datasets. But it does mean that if you collected 3 consecutive measurements that were similar and only want to plot the third one in your notebook, you must include in your notes that you are only including one of three datasets that were collected.
+
+You also need to document every technical aspect of your experiments. This means writing down the names, manufacturers, purities, and lot numbers of the chemicals you use. It also means describing (and ideally taking photographs) all of your experimental apparatus. Note, however, that this usually only needs to be done once—the first time you use that chemical or apparatus. After that, you can simply reference back to the prior entry that gives the relevant experimental details, i.e. "see description from May 13 of this year for full details of the apparatus."
+
+For every experiment, you need to provide an explanation for why you ran the experiment and your (preliminary) interpretation of the results. The point here is not to try to make your lab notebook look like a published research article; rather, the point is for you to fully document not just your data, but the thinking that went along with the data. This is tedious, and it will be awkward if you have not done it before, but it's extremely important!
+
+Finally, you should be using your lab notebook to write reflectively about your work. This means you can and should create lab notebook entries from time to time that don't have any data all. Instead, take a few hours to think through the work you have been doing and think about the purpose, the main objectives, your hypotheses, etc. And when you do this, write it all down.
+
+## Tools for notebook keeping
+
+The default option for keeping notes in the McKone lab involves using [Microsoft OneNote](https://www.microsoft.com/). OneNote is a cross-platform app that allows you to take digital notes (formatted text, images, tables, embedded files) via individual entries organized into virtual notebooks. Your institutional Microsoft 365 account automatically provides access to OneNote. Seek help from James or a more senior lab member if you need assistance getting started. You may also keep a paper notebook handy for writing down experimental observations, procedural details, reagent weights, etc., when you are not near a computer; but these notes should be treated as strictly temporary and transcribed into your digital notebook entry within a few hours after completing the work. Your OneNote notebook, and not any paper notes, will be treated the original and permanent record of the work you complete in our lab.
+
+In addition to notebook entries, which should contain written text, calculations, diagrams, and data visualizations (tables, graphs, plots, etc.), original data files must be kept organized and archived to Pitt's cloud-based storage system, [Microsoft OneDrive](https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage). Make sure your lab notebook clearly indicates where the data files corresponding to a particular notebook entry are stored. By far the easiest way to do this is to maintain your notebook and cloud storage directory organized strictly by date.
+
+## (EARLIER VERSION) Keeping track of your lab work
 
 It’s important to document your work carefully in a lab notebook. Lab members have a handful of options when it comes to selecting the format for their lab notes:
 
