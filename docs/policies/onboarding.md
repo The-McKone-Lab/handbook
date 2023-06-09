@@ -39,7 +39,7 @@ If you have any questions about how to gain access or use these resources, consu
 
 ## Getting into lab
 
-### Complete department level training
+### Complete departmental safety training
 
 All researchers working in ChE labs must complete the [Online Chemical Hygiene Training](https://pitt.co1.qualtrics.com/jfe/form/SV_6MuNLxJssf1zD7L) offered by Pitt EH&S. You should also briefly review Pitt's [Chemical Hygiene plan](https://www.ehs.pitt.edu/sites/default/files/docs/04-001ChemHygienePlan.pdf) to develop a general understanding of policies regarding chemical hazards that are consistent all across campus.
  
@@ -47,19 +47,23 @@ There is usually an option to take this training in person instead of online; co
 
 You may also wish to ask about card access to enter the building after hours and on weekends/holidays. Policies on access restrictions have varied over the last several years, so best to consult with Bob about whether you will need to be added to any other lists. Card access should then be enabled within 48-72 hours.
 
-### Complete lab level training
+### Complete lab safety training
 
 Lab-specific training for our group proceeds in several steps. 
-First, you should review the video presentation entitled “chemsafety101” along with the accompanying pdf slide deck, which describe how to go about operating safely in wet chemistry laboratory. 
+First, you should review the video presentation below entitled “chemsafety101,” which describes how to go about operating safely in wet chemistry laboratory.[^1] 
 The most important piece of information about our lab space is that **we work with many hazardous substances**, including toxic and corrosive chemicals, compressed gases, high-speed cutting and grinding tools, high-temperature equipment, and electronics with live voltages. 
 It is incumbent on each of you to *respect the hazard* of whatever you are working by educating yourself and planning ahead.
+
+<p align="center"><iframe src="https://pitt.sharepoint.com/sites/mckonelab2/_layouts/15/embed.aspx?UniqueId=6f1734e4-164b-45b9-bca3-b25652e72166&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=OneUpFileViewer&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="chemsafety101.mp4"></iframe></p>
+
+[^1]: You may also download a [PDF copy of the slide deck](https://pitt.sharepoint.com/:b:/s/mckonelab2/EbUwyGJFxXNBtARKiXZe7C8BsYXD1Wk4GE1vVa6AZuEnpA?e=9CEa5O) used for this safety presentation.
 
 You must also schedule an in-person laboratory walkthrough with the lab safety officer or with James. 
 This walkthrough can happen even before you have formally secured lab access since you will be accompanied by a lab safety administrator; the walkthrough will comprise a general tour of our facilities with an emphasis on the main safety hazards associated with all the different tools in our lab, as well as key laboratory infrastructure like eye washes, safety showers, etc.
 
 ### Document your safety training
 
-Upon completion of all training tasks above, you must review, fill, and sign a set of safety onboarding forms that will be provided by the lab safety officer. 
+Upon completion of all training tasks above, you must review, fill, and sign a set of [safety onboarding forms](https://pitt.sharepoint.com/:b:/s/mckonelab2/Ed83o8htuC1GlNi4xwqc104B8Hq28F6rqmopdNTd0CCJ2g?e=PX7s8o) along with the lab safety officer. 
 This can be done in paper format or electronically, and the completed forms should be provided to James prior to the first day you plan to work in our lab.
 
 ### Complete Experiment 1
@@ -70,9 +74,9 @@ Details for what needs to be completed can be found in the corresponding handboo
 New members should always be shown how to execute experiment 1 the first time by an existing lab member.
 Conveniently, becuase everybody has to complet this experiment, literally anyone in the lab should be able to show you how to do it.
 Once you have completed Experiment 1 independently, you should schedule a brief meeting with James to discuss the results. 
-During the discussion James will gauge your understanding of the basic physics and chemistry underlying the experiment, and once he is convinced you have a grasp of the fundamentals he will officially designate you as having completed your training for general access to our lab facilities and our electrochemical instrumentation.[^1]
+During the discussion James will gauge your understanding of the basic physics and chemistry underlying the experiment, and once he is convinced you have a grasp of the fundamentals he will officially designate you as having completed your training for general access to our lab facilities and our electrochemical instrumentation.[^2]
 
-[^1]: James also likes to say that anybody who can successfully execute and explain the Pt voltammetry measurements we use for Experiment 1 is "in the electrochemistry club," because the basic procedures and physical phenomena that you are measuring in that one experiment actually cover a very large fraction of all the basic principles of electrochemistry!
+[^2]: James also likes to say that anybody who can successfully execute and explain the Pt voltammetry measurements we use for Experiment 1 is "in the electrochemistry club," because the basic procedures and physical phenomena that you are measuring in that one experiment actually cover a very large fraction of all the basic principles of electrochemistry!
 
 ### You are free to work!
 

@@ -4,7 +4,7 @@ Each member of the McKone lab is required to fully document all laboratory resea
 University policy stipulates that every tangible element of research that is completed on campus or using University resources is the property of the University of Pittsburgh and not the individual researcher.[^1]
 As such, the way you should approach research documentation is to think of yourself not just as an individual doing experiments for your own education and advancement, but as a member of the research community at Pitt whose responsibilities include careful curation and preservation of all your work on behalf of our lab and the University as a whole. 
 
-[^1]: Note that individuals do retain some intellectual property rights for the work they complete on campus - these rules are complicated and you are very welcome to discuss with James if you are interested.
+[^1]: Note that individuals do retain some intellectual property rights for the work they complete while at Pitt - these rules are complicated and you are very welcome to discuss with James if you are interested.
 
 ## Your responsibilities
 

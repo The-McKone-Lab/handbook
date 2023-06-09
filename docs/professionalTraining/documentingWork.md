@@ -1,5 +1,7 @@
 # Documenting Your Work
 
+(JRM NOTE: this page is a mashup of two earlier guides that need to be revised and clean up significantly.)
+
 These are recommendations for how McKone lab members should document and present their work, including general guidelines on keeping lab notes, writing formal and informal documents, and preparing presentations.
 
 ## What goes into a lab notebook
@@ -20,7 +22,9 @@ The default option for keeping notes in the McKone lab involves using [Microsoft
 
 In addition to notebook entries, which should contain written text, calculations, diagrams, and data visualizations (tables, graphs, plots, etc.), original data files must be kept organized and archived to Pitt's cloud-based storage system, [Microsoft OneDrive](https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage). Make sure your lab notebook clearly indicates where the data files corresponding to a particular notebook entry are stored. By far the easiest way to do this is to maintain your notebook and cloud storage directory organized strictly by date.
 
-## (EARLIER VERSION) Keeping track of your lab work
+An example of a series of lab notebook entries excerpted from James's postdoc at Cornell is [available for download as a PDF here](https://pitt.sharepoint.com/:b:/s/mckonelab2/EcOvwnJFlMRKsf2SUN-KcgcB3d07zclHOXuHil5b7nd9Uw?e=pKv6mz).
+
+## Keeping track of your lab work
 
 It’s important to document your work carefully in a lab notebook. Lab members have a handful of options when it comes to selecting the format for their lab notes:
 
