@@ -34,7 +34,6 @@ theme:
 markdown_extensions:
   - footnotes
 
-
 nav: 
   - Home: index.md
   - About Our Lab: 
