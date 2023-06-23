@@ -6,6 +6,11 @@ New lab members should start here to get up and running within our lab and offic
 We broadly gate access to McKone lab facilities around initial lab safety training and the completion of one hands-on experiment that we call Experiment 1.
 Additional information is also provided below on various administrative items like access to our office space and various digital tools.
 
+## First: review all lab policies
+
+Before you begin working in our lab, you are required to familiarize yourself with the formal policies that we have established for our lab. 
+All these policies are documented in this handbook, so you simply need to read through the rest of this Policies section and address any questions that come up to James or a senior lab member.
+
 ## Important names and responsibilities
 
 As the principal investigator of our lab, James is ultimately responsible for managing every aspect of our lab.
@@ -33,11 +38,15 @@ Many students choose to use personal computers for work in the offices, but you 
 
 Your University of Pittsburgh digital login credentials should be configured automatically in the course of being admitted as a student or hired as a staff member.
 These credentials give you access to [Pitt's IT infrastructure](https://www.technology.pitt.edu/), including an email address via a Microsoft 365 account.
-Once your Microsoft 365 account is up and running, the lab onboarding manager will add you to our lab's [Microsoft 365 group](https://support.microsoft.com/en-us/office/learn-about-microsoft-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2), which will give you access to our shared calendar and our Sharepoint Server that is used to store and transfer various digital assets.
+Once your Microsoft 365 account is up and running, the lab onboarding manager will add you to our lab's [Microsoft 365 group](https://support.microsoft.com/en-us/office/learn-about-microsoft-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2), which will give you access to our shared calendar and our SharePoint server that is used to store and transfer various digital assets.
+Note that various links and embedded videos in this handbook point to resources that are stored in our SharePoint server, and you will need to login to access those resources.
+
 We also use the Slack platform for messaging, and the onboarding manager should invite you to our lab's Slack group.
+
 If you have any questions about how to gain access or use these resources, consult the onboarding manager or James.
 
 ## Getting into lab
+
 
 ### Complete departmental safety training
 
@@ -50,7 +59,7 @@ You may also wish to ask about card access to enter the building after hours and
 ### Complete lab safety training
 
 Lab-specific training for our group proceeds in several steps. 
-First, you should review the video presentation below entitled “chemsafety101,” which describes how to go about operating safely in wet chemistry laboratory.[^1] 
+First, you should review the video presentation below entitled “chemsafety101,” which describes how to go about operating safely in wet chemistry laboratory (note that video access requires you to sign in using your Pitt login credentials).[^1] 
 The most important piece of information about our lab space is that **we work with many hazardous substances**, including toxic and corrosive chemicals, compressed gases, high-speed cutting and grinding tools, high-temperature equipment, and electronics with live voltages. 
 It is incumbent on each of you to *respect the hazard* of whatever you are working by educating yourself and planning ahead.
 

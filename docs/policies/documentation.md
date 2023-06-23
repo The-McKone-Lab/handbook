@@ -1,4 +1,4 @@
-# Documentation
+# Documenting lab work
 
 Each member of the McKone lab is required to fully document all laboratory research they complete while a member of our group. 
 University policy stipulates that every tangible element of research that is completed on campus or using University resources is the property of the University of Pittsburgh and not the individual researcher.[^1]
@@ -10,19 +10,18 @@ As such, the way you should approach research documentation is to think of yours
 
 As a lab researcher at Pitt, your responsibilities for documentation include keeping a detailed record of (a) the materials you work with; (b) the data you collect; and (c) all the work you complete in analyzing and interpreting those data. 
 The requirements described below were intentionally written from a general perspective to ensure maximum flexibility in terms of organizational structure and tools.
-Specific recommendations on how to document your work using the resources currently available to our lab can be found in the [Professional Training](../../professionalTraining) section.
+Specific recommendations on [how to document your work](../professionalTraining/documentingWork.md) using the resources currently available to our lab can be found in the Professional Training section.
 
 ### Materials
 
 Our lab works with a wide variety of materials that comprise the objects of our investigation.
-Examples include catalysts, electrodes, electrolytes, and reactors.  
-Your are responsible for ensuring the materials you work with are indexed with clear labels that allow them to be uniquely identified from any other materials, and that those labels are appropriately incorporated into your lab notes.
+Examples include catalysts, electrodes, electrolytes, and reactors. You are responsible for ensuring the materials you work with are indexed with clear labels that allow them to be uniquely identified from any other materials, and that those labels are appropriately incorporated into your lab notes.
 Note that this requirement is in addition to the baseline safety requirement to ensure all hazardous substances in lab are appropriately labeled.
 
 ### Data
 
 We collect data using a variety of means, most of which entail the generation of digital files from various types of instruments.
-Data may also be collected in qualitative or semi-quantitative ways, e.g., by taking photographs of samples or by documentating observations by hand.
+Data may also be collected in qualitative or semi-quantitative ways, e.g., by taking photographs of samples or by documentating observations by hand. 
 Data collection and storage today is almost entirely accomplished digitally via storage of files on computer systems either on a local computer or using interet-based data archive services.
 Your responsibility here is to ensure that you are maintaining a comprehensive and well-organized repository of all data that you collect in the lab. 
 In practice, this will likely take the form of a digital directory containing files with some well-defined naming convention and organizational structure.
@@ -45,6 +44,6 @@ Final archival of data and materials should be carried out as part of your offbo
 
 ## Your lab notebook as comprehensive record
 
-The discussion of responsibilities above sounds complicated when requirement is parsed and described in a general way.
-But in practice, documenting your lab research is straightforward when you develop the entire process into a consistent workflow for keeping a comprehensive laboratory notebook.
-You are strongly encouraged to review the handbook section on best practices for keeping a lab notebook as you develop a strategy for documenting your lab research.
+The discussion of responsibilities above sounds complicated when each requirement is parsed and described in a general way.
+But in practice, documenting your lab research is straightforward when you fold the process into a consistent workflow for keeping a comprehensive laboratory notebook.
+You are strongly encouraged to review the handbook section on [best practices for keeping a lab notebook](../professionalTraining/documentingWork.md) as you develop a strategy for documenting your lab research.

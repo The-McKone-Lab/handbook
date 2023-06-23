@@ -41,12 +41,14 @@ nav:
     - Our ideals: about/mission-vision.md
   - Policies:
     - policies/index.md
+    - Onboarding: policies/onboarding.md
     - Lab safety: policies/safety.md
     - Interpersonal behavior: policies/interpersonal.md
     - Hours, vacation, and leave: policies/hoursVacationLeave.md 
+    - Meetings: policies/meetings.md
     - Hybrid and remote work: policies/hybridRemote.md
     - Documenting lab work: policies/documentation.md
-    - Onboarding: policies/onboarding.md
+    - Individual development plans: policies/IDP.md
     - Offboarding: policies/offboarding.md
   - Professional training:
     - professionalTraining/index.md
