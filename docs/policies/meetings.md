@@ -20,14 +20,15 @@ The specific topic is flexible, but examples of worthwhile topics of discussion 
 
 * Delivering highlights of exciting recent work in the lab so we can all celebrate together
 * Getting help from other lab members to address a problem you are encountering in the lab 
-* Teaching the lab about 
+* Teaching the lab about a useful tool or technique
 * Practicing the delivery of a public presentation or oral exam and soliciting feedback from labmates on content, style, and delivery
 
 The exact time and location of the meeting is determined on a semester-by-semester basis to ensure maximimum compatibility with everyone's schedule.
 Attendance from all lab members is mandatory except for undergraduates who have course conflicts that cannot be resolved by modifying the meeting schedule.
 The schedule is maintained by James or a designated lab member and posted in the [SharePoint folder linked here](https://pitt.sharepoint.com/:f:/r/sites/mckonelab2/Shared%20Documents/Meetings/Group%20Meeting?csf=1&web=1&e=YkBIfx).
 All lab members who are fully onboarded should also automatically receive an electronic calendar invitation to the weekly meeting - contact James if you have not received this.
-Visual aids for group meeting presentations should be also be archived using the SharePoint directory linked above, along with any notes that are generated from meeting participants, e.g., from discussion of important lab business or feedback to a particular lab member giving a practice talk.
+
+Visual aids for group meeting presentations (e.g., PowerPoint slides) should be also be archived using the SharePoint directory linked above, along with any notes that are generated from meeting participants, e.g., from discussion of important lab business or feedback to a particular lab member giving a practice talk.
 
 ## One-on-one meetings
 
@@ -42,7 +43,7 @@ Preparation and execution of these meetings are structured as follows:
 * Generate a digital calendar appointment and send it to James (to make sure he has it in his schedule)
 * Complete an O3 meeting agenda using the [designated template stored in SharePoint](https://pitt.sharepoint.com/:w:/r/sites/mckonelab2/Shared%20Documents/Meetings/O3%20Meetings/McKoneLab%20O3%20Agenda%20Template.docx?d=w715f1e60e0a044c7bc7a37d34b255ff4&csf=1&web=1&e=Klblfa)
 * Upload the complete agenda to your [personal O3 meeting folder in SharePoint](https://pitt.sharepoint.com/:f:/r/sites/mckonelab2/Shared%20Documents/Meetings/O3%20Meetings?csf=1&web=1&e=eSiduJ) no less than 18 hours before your meeting 
-* James will make every effort to review your agenda the evening or mornign before you meet, so plan your actual meeting time accordingly
+* James will make every effort to review your agenda the evening or morning before you meet, so plan your actual meeting time accordingly
 
 **Important note:** O3 meetings will only be held if James has been provided an agenda - no agenda, no meeting.
 
