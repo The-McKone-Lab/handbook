@@ -13,7 +13,7 @@ Our lab meets weekly for one hour as a full group each week.
 This meeting is administrated by one lab member at a time on a rotating schedule, and this person is also responsible for delivering a presentation and facilitating discussion. 
 The actual meeting agenda includes a brief period at the beginnig of the meeting during which James will bring up any announcements or points he wishes to discuss briefly with the group.
 He will then open the floor for discussion or announcement from any lab members on lab business.
-After that, the balance of the meeting hour is provided to the designated meeting administrator to use as they see fit.
+After that, the balance of the meeting hour is provided to the designated lab member to use as they see fit.
 
 The **purpose** of our weekly group meeting is to give lab members an opportunity to discuss topics that are relevant to their work or ongoing operations in our lab.
 The specific topic is flexible, but examples of worthwhile topics of discussion include
@@ -25,6 +25,7 @@ The specific topic is flexible, but examples of worthwhile topics of discussion 
 
 The exact time and location of the meeting is determined on a semester-by-semester basis to ensure maximimum compatibility with everyone's schedule.
 Attendance from all lab members is mandatory except for undergraduates who have course conflicts that cannot be resolved by modifying the meeting schedule.
+Lab members are expected to be punctual, arriving prior to the designated meeting time and remaining for the full meeting.
 The schedule is maintained by James or a designated lab member and posted in the [SharePoint folder linked here](https://pitt.sharepoint.com/:f:/r/sites/mckonelab2/Shared%20Documents/Meetings/Group%20Meeting?csf=1&web=1&e=YkBIfx).
 All lab members who are fully onboarded should also automatically receive an electronic calendar invitation to the weekly meeting - contact James if you have not received this.
 
