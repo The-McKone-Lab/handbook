@@ -6,10 +6,9 @@ We have organized regular meetings in several ways in our lab over the years, so
 {James anticipates writing a separate piece talking about our general philosophy about meetings in the professional training section. That will eventually be linked here.}
 
 
-
 ## Group Meetings
 
-Our lab meets weekly for one hour as a full group each week.
+Our lab meets for one hour as a full group each week.
 This meeting is administrated by one lab member at a time on a rotating schedule, and this person is also responsible for delivering a presentation and facilitating discussion. 
 The actual meeting agenda includes a brief period at the beginnig of the meeting during which James will bring up any announcements or points he wishes to discuss briefly with the group.
 He will then open the floor for discussion or announcement from any lab members on lab business.
@@ -32,28 +31,25 @@ Visual aids for group meeting presentations (e.g., PowerPoint slides) should be 
 
 ## One-on-one meetings
 
-As the primary direct research mentor for every lab member, James maintains a policy of offering _at least one hour of one-on-one mentorship time per week_ to each member of our research group each week. 
-The only exceptions are for time periods during which James is on vacation or otherwise absent from work for an extended period.
+As the primary direct research mentor for every lab member, James maintains a policy of offering _at least one opportunity for one-on-one meeting time_ to each member of our research group each week. 
+The only exceptions are when James is on vacation or otherwise absent from work for an extended period.
 Every lab member is entitled to this time, but you are individually responsible for scheduling (or rescheduling) and administrating these meetings. 
 
-The current approach that most lab members are using for weekly check-ins with James comprises an approach we call **O3 meetings** (O3 is short for "one-on-one"). 
-Preparation and execution of these meetings are structured as follows:
+The current default approach for weekly check-ins with James are called **O3 meetings** (O3 is short for "one-on-one"), which proceed as follows:
 
 * Identify a mutually agreeable time interval to meet with James each week
 * Generate a digital calendar appointment and send it to James (to make sure he has it in his schedule)
-* Complete an O3 meeting agenda using the [designated template stored in SharePoint](https://pitt.sharepoint.com/:w:/r/sites/mckonelab2/Shared%20Documents/Meetings/O3%20Meetings/McKoneLab%20O3%20Agenda%20Template.docx?d=w715f1e60e0a044c7bc7a37d34b255ff4&csf=1&web=1&e=Klblfa)
-* Upload the complete agenda to your [personal O3 meeting folder in SharePoint](https://pitt.sharepoint.com/:f:/r/sites/mckonelab2/Shared%20Documents/Meetings/O3%20Meetings?csf=1&web=1&e=eSiduJ) no less than 18 hours before your meeting 
+* Complete an O3 meeting agenda using either the MS Word (DOCX) or the PowerPoint (PPTX) template available in the [O3 meetings folder in SharePoint](https://pitt.sharepoint.com/:f:/r/sites/mckonelab2/Shared%20Documents/Meetings/O3%20Meetings?csf=1&web=1&e=VJpfYY)
+* Upload the complete agenda to your personal O3 folder in SharePoint (accessible using the same meetings folder link as above) no less than 18 hours before your meeting 
 * James will make every effort to review your agenda the evening or morning before you meet, so plan your actual meeting time accordingly
 
 **Important note:** O3 meetings will only be held if James has been provided an agenda - no agenda, no meeting.
 
-If you wish to structure regular meetings with James in a different way, or if you prefer to forgo regular meetings entirely in favor of meeting with him only on an as-need basis, feel free to pursue alterantive arrangements with him.
+If you wish to structure regular meetings with James in a different way, or if you prefer to forgo regular meetings entirely in favor of meeting with him only on an as-need basis, feel free to develop alternative arrangements with him.
 
 ## Other meeting types
 
-Lab members are encouraged and/or required to participate in a handful of other types of regular meetings.
-Several types are outlined below.
-You are strongly encouraged
+As a member of our lab, you will also participate in a handful of other types of regular meetings, several of which are outlined below. 
 
 ### Ad-hoc meetings
 
